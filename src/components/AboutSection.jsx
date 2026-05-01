@@ -47,7 +47,7 @@ export default function AboutSection() {
             <div className="space-y-2 font-mono text-xs">
               <p className="glass-card px-3 py-2 text-slate-200"><span className="text-neon-green">🟢</span> status: seeking_internships</p>
               <p className="glass-card px-3 py-2 text-slate-200"><span className="text-neon-cyan">🔵</span> location: Ghaziabad, UP</p>
-              <p className="glass-card px-3 py-2 text-slate-200"><span className="text-data-yellow">🟡</span> batch: CSE_2023-2027</p>
+              <p className="glass-card px-3 py-2 text-slate-200"><span className="text-data-yellow">🟡</span> batch: CS_2023-2027</p>
             </div>
           </div>
 

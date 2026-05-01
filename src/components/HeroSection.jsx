@@ -67,7 +67,7 @@ export default function HeroSection() {
             </div>
 
             <p className="text-slate-300 mt-5 max-w-3xl text-lg">
-              Ashirvad Kumar Singh | IMS Engineering College (B.Tech CSE, 2023–2027) | Building production-grade ML systems that turn raw data into real-world impact.
+              Ashirvad Kumar Singh | IMS Engineering College (B.Tech CS, 2023–2027) | Building production-grade ML systems that turn raw data into real-world impact.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-4">
